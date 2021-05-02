@@ -1,6 +1,6 @@
 # ChatConcept
 
-Front End concept of a chat system.
+Front end concept of a chat system with mobile compatibility.
 
 ## Web:
 
