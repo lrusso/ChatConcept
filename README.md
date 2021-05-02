@@ -1,4 +1,4 @@
-# ChatConcept
+# Chat Concept
 
 Front end concept of a chat system with mobile compatibility.
 
