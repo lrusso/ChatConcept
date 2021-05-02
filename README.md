@@ -1,2 +1,7 @@
 # ChatConcept
-Frontend concept of a chat system
+
+Front End concept of a chat system.
+
+## Web:
+
+https://lrusso.github.io/ChatConcept/ChatConcept.htm
